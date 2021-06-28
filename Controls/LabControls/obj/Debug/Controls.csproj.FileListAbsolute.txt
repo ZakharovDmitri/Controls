@@ -1,0 +1,11 @@
+C:\Users\gpaho\KPO\Controls\LabControls\bin\Debug\LabControls.dll
+C:\Users\gpaho\KPO\Controls\LabControls\bin\Debug\LabControls.pdb
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\Controls.csprojAssemblyReference.cache
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\LabControls.ColorPicker.resources
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\LabControls.ColorTextBox.resources
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\LabControls.FilePathSelect.resources
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\LabControls.Properties.Resources.resources
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\Controls.csproj.GenerateResource.cache
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\Controls.csproj.CoreCompileInputs.cache
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\LabControls.dll
+C:\Users\gpaho\KPO\Controls\LabControls\obj\Debug\LabControls.pdb
